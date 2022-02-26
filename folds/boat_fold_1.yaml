@@ -1,0 +1,99 @@
+train: [
+  ../njord-yolo/00_hermes_dag1,
+  ../njord-yolo/00_hermes_dag2,
+  ../njord-yolo/00_hermes_dag3,
+  ../njord-yolo/00_hermes_dag6,
+  ../njord-yolo/00_hermes_dag7,
+  ../njord-yolo/00_hermes_dag9,
+  ../njord-yolo/00_hermes_dag12,
+  ../njord-yolo/00_hermes_dag14,
+  ../njord-yolo/00_hermes_dag16,
+  ../njord-yolo/00_hermes_dag17,
+  ../njord-yolo/00_hermes_dag18,
+  ../njord-yolo/00_hermes_dag19,
+  ../njord-yolo/00_hermes_dag20,
+  ../njord-yolo/00_hermes_dag22,
+  ../njord-yolo/00_hermes_dag23,
+  ../njord-yolo/00_hermes_dag24,
+  ../njord-yolo/00_hermes_dag25,
+  ../njord-yolo/00_hermes_dag26,
+  ../njord-yolo/00_hermes_dag27,
+  ../njord-yolo/00_hermes_dag28,
+  ../njord-yolo/00_hermes_dag34,
+  ../njord-yolo/02_hermes_dag1,
+  ../njord-yolo/02_hermes_dag2,
+  ../njord-yolo/02_hermes_dag31,
+  ../njord-yolo/02_hermes_dag32,
+  ../njord-yolo/02_hermes_dag33,
+  ../njord-yolo/04_hermes_dag1,
+  ../njord-yolo/04_hermes_dag3,
+  ../njord-yolo/04_hermes_dag7,
+  ../njord-yolo/05_hermes_dag1,
+  ../njord-yolo/05_hermes_dag3,
+  ../njord-yolo/05_hermes_dag7,
+  ../njord-yolo/05_hermes_dag26,
+  ../njord-yolo/06_hermes_dag7,
+  ../njord-yolo/06_hermes_dag28,
+  ../njord-yolo/06_hermes_dag29,
+  ../njord-yolo/06_hermes_dag33,
+  ../njord-yolo/06_hermes_dag34
+]
+
+val: [
+  ../njord-yolo/01_hermes_dag1,
+  ../njord-yolo/01_hermes_dag2,
+  ../njord-yolo/01_hermes_dag3,
+  ../njord-yolo/01_hermes_dag6,
+  ../njord-yolo/01_hermes_dag7,
+  ../njord-yolo/01_hermes_dag8,
+  ../njord-yolo/01_hermes_dag9,
+  ../njord-yolo/01_hermes_dag12,
+  ../njord-yolo/01_hermes_dag14,
+  ../njord-yolo/01_hermes_dag16,
+  ../njord-yolo/01_hermes_dag17,
+  ../njord-yolo/01_hermes_dag18,
+  ../njord-yolo/01_hermes_dag19,
+  ../njord-yolo/01_hermes_dag20,
+  ../njord-yolo/01_hermes_dag23
+]
+
+nc: 4
+
+names: [ "Boat", "Person", "Net", "Fish"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

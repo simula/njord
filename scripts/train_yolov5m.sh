@@ -1,0 +1,1 @@
+python ../yolov5/train.py --img 640 --batch 16 --epochs 300 --patience 10 --data $1 --weights yolov5m.pt
